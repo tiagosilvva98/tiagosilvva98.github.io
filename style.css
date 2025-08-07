@@ -1,40 +1,20 @@
-
 body {
     font-family: Arial, sans-serif;
-    background-color: #111;
-    color: #fff;
+    background-color: #000;
+    color: #ffd700;
     text-align: center;
-    padding: 20px;
+    margin: 0;
+    padding: 0;
 }
-
 .container {
-    max-width: 400px;
-    margin: auto;
-    background-color: #222;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px gold;
+    padding: 50px 20px;
 }
-
 h1 {
-    color: gold;
+    font-size: 2.5em;
+    margin-bottom: 20px;
 }
-
 .qrcode {
-    width: 200px;
-    margin: 20px 0;
-}
-
-.pix-key {
-    font-size: 1.2em;
-    background: #333;
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-    margin-bottom: 10px;
-}
-
-.msg {
-    font-size: 0.95em;
-    color: #ccc;
+    max-width: 300px;
+    width: 100%;
+    margin: 30px 0;
 }
